@@ -168,15 +168,3 @@ yarn test
 ```bash
 yarn release
 ```
-
-## Contributors
-
-<a href="https://github.com/lando/drupal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=lando/drupal" />
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
-
-## Other Resources
-
-* [Important advice](https://www.youtube.com/watch?v=WA4iX5D9Z64)
